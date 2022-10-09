@@ -131,7 +131,3 @@ Question 09:
 Question 10:
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/61027154/194759247-02fb930c-0df7-47de-99a9-4db1a2f73059.png">
-
-LINK TO DOCUMENT
-
-https://docs.google.com/document/d/1Bp7x0daF5LY7261SitSGSfgbOOiPgNyu/edit?usp=sharing&ouid=104001032066829931369&rtpof=true&sd=true
